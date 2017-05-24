@@ -26,7 +26,7 @@
     "php": ">=5.5",
     "psr/log": "~1",
     "monolog/monolog": "~1",
-    "paslandau/io-utility": "^0.2.0"
+    "paslandau/io-utility": "^0.8.0"
   },
   "require-dev": {
     "phpunit/phpunit": "~4"
